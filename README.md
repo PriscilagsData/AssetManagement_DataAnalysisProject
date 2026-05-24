@@ -1,5 +1,5 @@
 # 📄 Asset Management (US)
-### Data Analysis - Market Research Dashboard for private sector
+### Data Analysis - Capital risk analysis, investment strategies, and data-driven decision making
 
 <p align="left">
 
