@@ -62,7 +62,7 @@
 - `Relational model pbix after ETL and DAX measures`
   
 <p align="center">
-  <img src="relational_model_pbix.png" width="400">
+  <img src="relational_model.png" width="400">
 </p>
 
 ## 💻 Power BI report
