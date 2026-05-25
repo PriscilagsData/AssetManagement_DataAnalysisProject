@@ -75,19 +75,23 @@
 
 #### 📊 `Cover`
 
+- Interactive cover page for **business presentation**
+
 <p align="center">
   <img src="cover_page.png" width="800">
 </p>
 
-Its purpose is to...............
 
 #### 📊 `Map`
 
+- **Geographic distribution of stores**, categorized by brand (logos)
+- Specific filtering is available by client or competitor
+- A tooltip is added with store characteristics and a summary of **key pricing metrics by membership type**
+- Filtering by area, brand, or membership allows for the **identification of trends and distribution**
+  
 <p align="center">
   <img src="map_page_pbix.png" width="800">
 </p>
-
-This section analyzes...........
 
 #### 📊 `Market`
 
