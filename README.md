@@ -95,11 +95,14 @@
 
 #### 📊 `Market`
 
+- **Price analysis** based on membership type (individual, monthly, annual)
+- The analysis includes **maximum, minimum, and average prices** for each store (address) or brand, identifying the mean price to **determine which one falls above or below that average**
+- A **box plot** is also included to study the **distribution of prices** by membership, allowing filtering by area, brand, or address to **identify associated changes**
+- Furthermore, the **treemap** displays the **Top N areas with the highest prices**
+  
 <p align="center">
   <img src="market_page.png" width="800">
 </p>
-
-This section analyzes...........
 
 #### 📊 `Competitors`
 
