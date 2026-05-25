@@ -76,7 +76,7 @@
 #### 📊 `Cover`
 
 <p align="center">
-  <img src="contracts_page.jpg" width="1100">
+  <img src="cover_page.png" width="1100">
 </p>
 
 Its purpose is to...............
@@ -92,7 +92,7 @@ This section analyzes...........
 #### 📊 `Market`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="1100">
+  <img src="market_page.png" width="1100">
 </p>
 
 This section analyzes...........
