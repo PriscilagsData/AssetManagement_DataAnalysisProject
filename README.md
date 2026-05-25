@@ -62,7 +62,7 @@
 - `Relational model pbix after ETL and DAX measures`
   
 <p align="center">
-  <img src="relational_model.png" width="400">
+  <img src="relational_model.png" width="350">
 </p>
 
 ## 💻 Power BI report
@@ -76,7 +76,7 @@
 #### 📊 `Cover`
 
 <p align="center">
-  <img src="cover_page.png" width="900">
+  <img src="cover_page.png" width="800">
 </p>
 
 Its purpose is to...............
@@ -84,7 +84,7 @@ Its purpose is to...............
 #### 📊 `Map`
 
 <p align="center">
-  <img src="map_page_pbix.png" width="900">
+  <img src="map_page_pbix.png" width="800">
 </p>
 
 This section analyzes...........
@@ -92,7 +92,7 @@ This section analyzes...........
 #### 📊 `Market`
 
 <p align="center">
-  <img src="market_page.png" width="900">
+  <img src="market_page.png" width="800">
 </p>
 
 This section analyzes...........
@@ -100,7 +100,7 @@ This section analyzes...........
 #### 📊 `Competitors`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="900">
+  <img src="competitors_page_pbix.png" width="800">
 </p>
 
 This section analyzes...........
@@ -108,7 +108,7 @@ This section analyzes...........
 #### 📊 `Pricing recommendation`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="900">
+  <img src="pricing_page_pbix.png" width="800">
 </p>
 
 This section analyzes...........
