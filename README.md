@@ -67,7 +67,7 @@
 
 ## 💻 Power BI report
 
-📄 **[View full Power BI (PDF)](  )**
+📄 **[View full Power BI (PDF)](https://github.com/PriscilagsData/AssetManagement_DataAnalysisProject/blob/main/AssetManagement_pbix.pdf)**
 
 <p align="center">
   <img src="dashboard_pbix.png" width="1100">
