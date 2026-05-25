@@ -14,7 +14,10 @@
 
 #### 📌 Executive Summary
 
-- 
+- Conducted a 2026 US market study for a confidential investment advisory firm
+- Analyzed office distribution, membership structures, pricing models, clients, and competitors
+- Built KPI-driven Power BI dashboards using Snowflake data and Power Query ETL workflows
+- Delivered interactive business intelligence solutions to identify trends and strategic insights
 
 **Some data was modified for reasons of corporate confidentiality.**
 
@@ -27,21 +30,30 @@
 
 <br>
 
-- `Stores`
+- `database`
 
 | Column | Data Type | Description |
 |:---|:---|:---|
-| `Contract_ID` | Integer | Unique contract identifier |
-| `Operation_Category` | Text | Operation / service category |
-| `Record_Type` | Text | Record type |
-| `State` | Text | US state |
-| `Statal_Agency` | Text | Public entity requesting services |
-| `Company` | Text | Awarded company |
-| `Description` | Text | Contract description |
-| `Amount` | Currency | Total contract value |
-| `Start_Date` | Date | Contract start date |
-| `End_Date` | Date | Contract end date |
-| `Contract_Type` | Text | Contract clasification |
+| `ID` | Integer | Unique identifier |
+| `BRAND` | Text | Brand name |
+| `ADDRESS` | Text | Brand address |
+| `PRODUCT_NAME` | Text | Product name |
+| `PRICE` | Currency | Specific service price |
+| `SCRAPED_AT` | Date | Registration date |
+| `TYPE` | Text | Service type: single, monthly or annual |
+| `BRAND_TYPE` | Text | Client or competitor |
+| `LATITUDE` | Decimal number | Store latitude |
+| `LONGITUDE` | Decimal number | Store longitude |
+| `CITY` | Text | US city |
+| `STATE` | Text | US state |
+| `AREA` | Text | US area |
+| `IS_MIN_PRICE` | Whole number | Store minimum price |
+| `IS_MAX_PRICE` | Whole number | Store maximum price |
+| `CLOSEST_5_COMPETITOR_AVG_PRICE` | Currency | Average price of the closest five competitors |
+| `CLOSEST_5_COMPETITOR_MIN_PRICE` | Currency | Minimum price of the closest five competitors |
+| `CLOSEST_5_COMPETITOR_MAX_PRICE` | Currency | Maximum price of the closest five competitors |
+| `MSA_PRICE_RANK` | Whole number | Price ranking |
+| `MSA_PRICE_COUNT` | Whole number | Price count |
 
 </details>
 
