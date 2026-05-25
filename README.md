@@ -118,8 +118,8 @@
 
 #### 📊 `Pricing recommendation`
 
-- This page alerts our customers about recommended price adjustments based on data showing the maximum and minimum prices of the five closest competitors to each store
-- It's a month-by-month analysis that specifies, for each brand, which product and in which direction a price increase is recommended relative to competitors
+- This page alerts our customers about **recommended price adjustments based on data showing the maximum and minimum prices of the five closest competitors to each store**
+- It's a month-by-month analysis that specifies, for each brand, **which product and in which direction a price increase is recommended relative to competitors**
 
 <p align="center">
   <img src="pricingrecommendations_page_pbix.png" width="800">
