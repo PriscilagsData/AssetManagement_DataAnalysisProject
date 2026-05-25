@@ -108,7 +108,7 @@ This section analyzes...........
 #### 📊 `Pricing recommendation`
 
 <p align="center">
-  <img src="pricing_page_pbix.png" width="800">
+  <img src="pricingrecommendations_page_pbix.png" width="800">
 </p>
 
 This section analyzes...........
