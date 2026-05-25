@@ -70,7 +70,7 @@
 📄 **[View full Power BI (PDF)](  )**
 
 <p align="center">
-  <img src="dashboard_pbix.jpg" width="300">
+  <img src="dashboard_pbix.png" width="300">
 </p>
 
 #### 📊 `Cover`
