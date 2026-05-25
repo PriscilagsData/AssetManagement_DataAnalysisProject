@@ -76,7 +76,7 @@
 #### 📊 `Cover`
 
 <p align="center">
-  <img src="cover_page.png" width="1100">
+  <img src="cover_page.png" width="900">
 </p>
 
 Its purpose is to...............
@@ -84,7 +84,7 @@ Its purpose is to...............
 #### 📊 `Map`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="1100">
+  <img src="map_page_pbix.png" width="900">
 </p>
 
 This section analyzes...........
@@ -92,7 +92,7 @@ This section analyzes...........
 #### 📊 `Market`
 
 <p align="center">
-  <img src="market_page.png" width="1100">
+  <img src="market_page.png" width="900">
 </p>
 
 This section analyzes...........
@@ -100,7 +100,7 @@ This section analyzes...........
 #### 📊 `Competitors`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="1100">
+  <img src="opportunities_page.jpg" width="900">
 </p>
 
 This section analyzes...........
@@ -108,7 +108,7 @@ This section analyzes...........
 #### 📊 `Pricing recommendation`
 
 <p align="center">
-  <img src="opportunities_page.jpg" width="1100">
+  <img src="opportunities_page.jpg" width="900">
 </p>
 
 This section analyzes...........
